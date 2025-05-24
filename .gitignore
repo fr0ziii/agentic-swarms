@@ -1,0 +1,6 @@
+.env
+.venv
+node_modules/
+memory-bank/
+docs/
+*.pyc
